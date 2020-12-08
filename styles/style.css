@@ -1,0 +1,19 @@
+img {
+    width:100%;
+}
+
+ .myborder{
+    border-top: 5px solid hsla(54, 100%, 50%, 0.384);
+    width: 5%;
+ }
+
+ .myrow{
+    margin-top:22px;
+    padding-top: 20px;
+}
+
+.myrow + .myrow {
+    margin-top:22px;
+    padding-top: 20px;
+}
+
